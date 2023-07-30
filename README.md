@@ -5,7 +5,7 @@
 I am a graduate student at NC State University, where I've been pursuing my never-ending curiousity for computer science. I initially embarked on my academic and professional journey with a background in economics, finance, and financial planning, but have since discovered that my true interests and passion lies in the ever-evolving world of programming. I am currently pursuing studies part-time whilst seeking an engaging computer science role where I can apply my skills, gain valuable experience, and actively contribute to a company's growth and success.
 <br>
 <br>
-I have included some information below about myself below as well as my skills, abilities, and background. Please feel free to browse through my projects below or reach out to me if you would like to connect!
+I have included some information below about myself below as well as my skills, abilities, and background. Please feel free to browse through my projects or reach out to me if you would like to connect!
 <br>
 <br>
 ### Languages and Tools
