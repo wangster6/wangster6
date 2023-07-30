@@ -25,5 +25,3 @@ I have included some information below about myself below as well as my skills, 
 <br>
 ### GitHub Statistics
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=wangster6)](https://github.com/wangster6/github-readme-stats)
-<br>
-//[![Overall Stats](https://github-readme-stats.vercel.app/api?username=wangster6)](https://github.com/wangster6/github-readme-stats)
