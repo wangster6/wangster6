@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-raywang612-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raywang612/)](https://www.linkedin.com/in/raywang612/)
 [![Gmail Badge](https://img.shields.io/badge/-raywang612-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raywang612@gmail.com)](mailto:raywang612@gmail.com)
 <br>
-I am a graduate student at NC State University, where I've been pursuing my never-ending curiousity for computer science. I initially embarked on my academic and professional journey with a background in economics, finance, and financial planning, but have since discovered that my true interests and passion lies in the ever-evolving world of programming. I am currently pursuing studies part-time whilst seeking an engaging computer science role where I can apply my skills, gain valuable experience, and actively contribute to a company's growth and success.
+My name is Ray and I am a graduate student at NC State University. I initially started my academic and professional journey in economics, finance, and wealth management, but have since discovered that my true interests and passion lies in the ever-evolving world of programming. I am currently pursuing studies whilst seeking an engaging computer science role where I can improve my skills, gain valuable experience, and actively contribute to a company's growth and success.
 <br>
 <br>
 I have included some information below about myself below as well as my skills, abilities, and background. Please feel free to browse through my projects or reach out to me if you would like to connect!
