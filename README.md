@@ -9,7 +9,7 @@ I have included some information below about myself below as well as my skills, 
 <br>
 <br>
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,mysql,py,html,css,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,react,mysql,py,html,css,ansible,aws,docker,eclipse,git,linux,materialui,ruby)](https://skillicons.dev)
 <br>
 <br>
 ### Education and Certifications
