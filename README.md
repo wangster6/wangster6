@@ -12,7 +12,7 @@ I have included some information below about myself below as well as my skills, 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,react,mysql,py,html,css,ansible,aws,docker,eclipse,git,linux,materialui,ruby)](https://skillicons.dev)
 <br>
 <br>
-### Education and Certifications
+### Education
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Carolina_State_University_Athletic_logo.svg" width=30px>MS in Computer Science at North Carolina State University (current)
 <br>
 <br>
