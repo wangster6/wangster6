@@ -8,6 +8,9 @@ My name is Ray and I am a graduate student at NC State University. I initially s
 I have included some information below about myself below as well as my skills, abilities, and background. Please feel free to browse through my projects or reach out to me if you would like to connect!
 <br>
 <br>
+### Project Directory
+<br>
+<br>
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,react,mysql,py,html,css,ansible,aws,docker,eclipse,git,linux,materialui,ruby)](https://skillicons.dev)
 <br>
