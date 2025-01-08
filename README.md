@@ -9,7 +9,7 @@ I have included some information below about myself below as well as my skills, 
 <br>
 <br>
 ### Project Directory
-Here’s a collection of my most notable projects and contributions. If any are private, feel free to reach out to me to get access!
+Here’s a collection of my most notable projects and contributions.
 
 #### Web Development
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
@@ -29,7 +29,7 @@ Here’s a collection of my most notable projects and contributions. If any are 
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
 | **Encrypted File Transfer**     | A Python script for secure file and message transfers utilizing advanced cryptographic APIs and techniques, including AES-256 and Diffie-Hellman key exchange. | Python, AES-256, GCM, PBKDF2, SHA512/256 | PRIVATE                       |
 
-
+If any project repositories are private, feel free to reach out to me to get access!
 <br>
 <br>
 ### Languages and Tools
