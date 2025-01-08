@@ -21,6 +21,8 @@ Here’s a collection of my most notable projects and contributions. If any are 
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
 | **Bank of Ray**                 | A Java project simulating a bank ATM system with user authentication, account management, and secure database integration. | Java, MySQL, JDBC, JBCrypt, JUnit 5    | [Repo](https://github.com/wangster6/bank-of-ray)                                   |
+| **Games**                       | A collection of simple games coded for practice and learning. Includes Minesweeper, playable in a terminal or console. | Python                                 | [Repo](https://github.com/wangster6/games)                                        |
+
 
 #### Security & Cryptography
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
