@@ -9,6 +9,14 @@ I have included some information below about myself below as well as my skills, 
 <br>
 <br>
 ### Project Directory
+> Here’s a collection of my most notable projects and contributions. Check them out!
+---
+#### Web Development
+| Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
+|--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
+| **Personal Finance Tracker**    | Real-time budgeting & expense tracking w/ data visualizations.    | React, Node.js, Express.js, MongoDB    | [Repo](https://github.com/wangster6/finance-tracker)                              |
+| **Portfolio Website**           | A responsive personal portfolio showcasing my work & background.  | HTML, CSS, JavaScript, Bootstrap       | [Repo](https://github.com/wangster6/portfolio-website)                            |
+---
 <br>
 <br>
 ### Languages and Tools
