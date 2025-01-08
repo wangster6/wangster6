@@ -14,7 +14,7 @@ Here’s a collection of my most notable projects and contributions.
 #### Web Development
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
-| **Python Flask Task Master**    | A lightweight task management web app enabling users to create, track, and update tasks in real time.    | Python, Flask, HTML, CSS, SQLite, Heroku    | [Repo](https://github.com/wangster6/flask-task-master)                              |
+| **Task Master**    | A lightweight task management web app enabling users to create, track, and update tasks in real time.    | Python, Flask, HTML, CSS, SQLite, Heroku    | [Repo](https://github.com/wangster6/flask-task-master)                              |
 | **AIO Extension**               | A Chrome extension enabling users to highlight text and prompt ChatGPT to explain it using the OpenAI API. | HTML, CSS, JavaScript, OpenAI API      | [Repo](https://github.com/wangster6/aio-extension)                                 |
 
 #### Software Development
