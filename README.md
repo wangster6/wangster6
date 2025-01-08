@@ -9,20 +9,23 @@ I have included some information below about myself below as well as my skills, 
 <br>
 <br>
 ### Project Directory
-Here’s a collection of my most notable projects and contributions. Check them out!
+Here’s a collection of my most notable projects and contributions. If any are private, feel free to reach out to me to get access!
+
 #### Web Development
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
 | **Python Flask Task Master**    | A lightweight task management web app enabling users to create, track, and update tasks in real time.    | Python, Flask, HTML, CSS, SQLite, Heroku    | [Repo](https://github.com/wangster6/flask-task-master)                              |
 | **AIO Extension**               | A Chrome extension enabling users to highlight text and prompt ChatGPT to explain it using the OpenAI API. | HTML, CSS, JavaScript, OpenAI API      | [Repo](https://github.com/wangster6/aio-extension)                                 |
+
 #### Software Development
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
 | **Bank of Ray**                 | A Java project simulating a bank ATM system with user authentication, account management, and secure database integration. | Java, MySQL, JDBC, JBCrypt, JUnit 5    | [Repo](https://github.com/wangster6/bank-of-ray)                                   |
+
 #### Security & Cryptography
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
-| **Encrypted File Transfer**     | A Python script for secure file and message transfers utilizing advanced cryptographic APIs and techniques, including AES-256 and Diffie-Hellman key exchange. | Python, AES-256, GCM, PBKDF2, SHA512/256 | [Repo](https://github.com/wangster6/encrypted-file-transfer)                       |
+| **Encrypted File Transfer**     | A Python script for secure file and message transfers utilizing advanced cryptographic APIs and techniques, including AES-256 and Diffie-Hellman key exchange. | Python, AES-256, GCM, PBKDF2, SHA512/256 | PRIVATE                       |
 
 
 <br>
