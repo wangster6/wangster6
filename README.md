@@ -27,7 +27,7 @@ Here’s a collection of my most notable projects and contributions.
 #### Security & Cryptography
 | Project                         | Description                                                       | Tech Stack                             | Link                                                                              |
 |--------------------------------|-------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------|
-| **Encrypted File Transfer**     | A Python script for secure file and message transfers utilizing advanced cryptographic APIs and techniques, including AES-256 and Diffie-Hellman key exchange. | Python, AES-256, GCM, PBKDF2, SHA512/256 | [https://github.com/wangster6/encrypted_file_transfer](https://github.com/wangster6/encrypted_file_transfer)                       |
+| **Encrypted File Transfer**     | A Python script for secure file and message transfers utilizing advanced cryptographic APIs and techniques, including AES-256 and Diffie-Hellman key exchange. | Python, AES-256, GCM, PBKDF2, SHA512/256 | [hRepo](https://github.com/wangster6/encrypted_file_transfer)                       |
 
 If any project repositories are private, feel free to reach out to me to get access!
 <br>
